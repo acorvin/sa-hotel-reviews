@@ -7,3 +7,5 @@ This Python project leverages the Natural Language Toolkit (NLTK) to perform sen
 **[Python](https://www.python.org/)**
 
 **[NLTK](https://www.nltk.org/)**
+
+**[scikit-learn](https://scikit-learn.org/)**
