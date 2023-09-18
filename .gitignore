@@ -19,6 +19,7 @@ develop-eggs/
 dist/
 eggs/
 etc/
+include/
 lib/
 lib64/
 parts/
