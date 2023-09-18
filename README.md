@@ -5,4 +5,5 @@ This Python project leverages the Natural Language Toolkit (NLTK) to perform sen
 ### Technologies
 
 **[Python](https://www.python.org/)**
+
 **[NLTK](https://www.nltk.org/)**
